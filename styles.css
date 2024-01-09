@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+body {
+    height: 100vh;
+    margin: 0;
+    background-image: url(bg2.jpg);
+    background-size: cover;
+    
+}
+
+.countdownHeading {
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+    color:  #ffffff;
+    margin: 10px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.countdown {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 60px;
+}
+
+.timer {
+    font-size: 5rem;
+    margin: 10px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color:  #ffffff;
+}
+
+.text {
+    font-size: 1rem;
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.horizontalLine {
+    border: 1px solid rgb(138, 198, 221);
+    width: 30%;
+}
+
+.bottomText {
+    font-size: 24px;
+    margin: 10px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
+
+.para{
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
